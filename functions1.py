@@ -125,6 +125,6 @@ def GtN():
         else: break
     if int(b) == A:print("You guessed it right! CONGRATULATIONS!!!!!!")
 
-'''Task 14'''
+
 
        
